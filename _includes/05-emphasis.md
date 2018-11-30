@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Emphasis
+
+>'No one can tell what goes on in between the person you *were* and the person you **become**. No one can chart that blue and lonely section of hell. There are no maps of the change. You just come out the other side. Or you don’t.'
+-Stephen King
